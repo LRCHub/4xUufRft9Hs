@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "夢をあきらめないで",
+  "base_artist": "岡村孝子",
+  "createdAt": "2025-12-25T04:48:17.814986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢をあきらめないで 2011",
+      "artist": "岡村孝子",
+      "has_synced": true,
+      "path": "select/01_夢をあきらめないで_2011_岡村孝子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢をあきらめないで",
+      "artist": "Takako Okamura",
+      "has_synced": true,
+      "path": "select/02_夢をあきらめないで_Takako_Okamura.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢をあきらめないで",
+      "artist": "Takako Okamura",
+      "has_synced": true,
+      "path": "select/03_夢をあきらめないで_Takako_Okamura.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢をあきらめないで - Yume Wo Akiramenaide",
+      "artist": "Takako Okamura",
+      "has_synced": true,
+      "path": "select/04_夢をあきらめないで_-_Yume_Wo_Akiramenaide_Takako_Okamura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢をあきらめないで",
+      "artist": "岡村 孝子",
+      "has_synced": false,
+      "path": "select/pl_01_夢をあきらめないで_岡村_孝子.txt"
+    }
+  ]
+}
